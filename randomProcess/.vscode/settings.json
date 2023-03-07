@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "gsl_linalg.h": "c",
+        "gsl_randist.h": "c"
+    }
+}
